@@ -1,0 +1,6 @@
+.header { background:#3f51b5;margin:0;height:50px;align-items: center;}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
